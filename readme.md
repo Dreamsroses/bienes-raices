@@ -1,6 +1,6 @@
 # Desarrollo Web con HTML5, CSS3, JS AJAX PHP y MySQL
 
-### Proyecto basado en html5 y CSS3, incluye:
+### Proyecto/Estudio basado en html5 y CSS3, incluye:
 
 Aplicación de Flexbox para posicionar el menú.
 
