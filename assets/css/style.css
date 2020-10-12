@@ -169,6 +169,22 @@ h4{
     font-weight: 700;
 }
 
+.iconos-caracteristicas{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.iconos-caracteristicas li{
+    display: flex;
+}
+
+.iconos-caracteristicas li img{
+    margin: 0 1.2rem;
+}
+
 .ver-todas{
     display: flex;
     justify-content: flex-end;
@@ -183,6 +199,7 @@ h4{
     background-size: cover;
     display: flex;
     align-items: center;
+    margin-top: 3rem;
 }
 
 .contenido-contacto{
